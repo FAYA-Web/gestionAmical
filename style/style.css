@@ -1,0 +1,15 @@
+.nav ul {
+	float: right;
+}
+.nav ul li{
+	margin-top: 8px;
+}
+ul li a{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.img-circle{
+	height: 70px;
+	width: 110px;
+}
